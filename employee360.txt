@@ -4,3 +4,4 @@ welcome to employee 360
 employee view
 manager view
 hr view
+ceo view
